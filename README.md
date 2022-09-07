@@ -1,0 +1,3 @@
+# RFM-with-Python
+RFM kelimesinin açılımı recency (güncellik), frequency (sıklık), monetary (parasal) anlamlarına denk gelmektedir. RFM analizinde ölçümlemek istenen müşterinin hesaplanan segment içerisindeki ürüne ya da hizmete satın almasındaki ya da kullanımdaki davranış hareketlerinin analiz etmektir. Analiz temelde müşterilerin geçmişteki satın alma davranışlarına bakarak ilerlemektedir. Ne kadar güncel, ne kadar sık ya da ne kadar para harcadı gibi sorular ile RFM analizinin çerçevesini oluşturabiliriz.
+Yaratılan müşteri bazlı tabloda skora göre sıralayarak ilgili kampanyaları yapabilir pazarlama stratejilerine katkı sağlayacak bilgiler çıkarabilirsiniz.
